@@ -1,3 +1,4 @@
+#improve the meassages
 def getnumbers():
     while True:
         try:
@@ -19,11 +20,11 @@ def getnumbers():
 while True:
     print("\nEnter a choice")
     print("0. Exit")
-    print("1. Add")
-    print("2. Subtract")
-    print("3. Multiply")
-    print("4. Divide")
-    print("5. Even / Odd")
+    print("1. Addition")
+    print("2. Subtraction")
+    print("3. Multiplication")
+    print("4. Division")
+    print("5. Even OR Odd")
     print("6. Percentage")
 
     try:
